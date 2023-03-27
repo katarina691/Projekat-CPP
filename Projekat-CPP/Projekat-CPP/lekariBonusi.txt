@@ -1,0 +1,1 @@
+LID = 1 Ime = Milan Prezime = Jovic Plata = 80000 Fakultet: medicinski Bonus: 24000

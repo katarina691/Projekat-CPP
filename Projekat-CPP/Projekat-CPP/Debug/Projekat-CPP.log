@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Zaposleni.cpp
+C:\Users\katar\source\repos\Projekat-CPP\Projekat-CPP\Zaposleni.cpp(121,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\katar\source\repos\Projekat-CPP\Projekat-CPP\Zaposleni.cpp(152,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Projekat-CPP.vcxproj -> C:\Users\katar\source\repos\Projekat-CPP\Debug\Projekat-CPP.exe

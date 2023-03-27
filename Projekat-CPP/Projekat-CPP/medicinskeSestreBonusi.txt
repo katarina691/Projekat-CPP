@@ -1,0 +1,1 @@
+MID = 1 Ime = Jelena Prezime = Petrovic Plata = 35000 Smena: 2 Bonus: 3500
